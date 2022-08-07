@@ -1,7 +1,7 @@
 <div align="center">
 
-  Uma interface de autenticação onde o usuário pode logar usando sua conta do Google, utilizando o **Firebase Authentication**. <br>
-  Foi criada com **TypeScript**, **Sass** e **React.js**.
+Interface de autenticação onde o usuário pode logar usando sua conta do Google, utilizando o **Firebase Authentication**. <br>
+Foi criada com **TypeScript**, **Sass** e **React.js** 👾
   
 </div><br>                  
 
