@@ -3,13 +3,13 @@
 # google-authentication
 <!--
 <div align="center">
-<img src="" width="800px"
+<img src=""/>
 </div>
 <br>
 <br>
 -->
-<div align="left">
 
+<div align="left">
 <br>
 Uma interface de autenticação onde o usuário pode logar na página usando sua conta do Google, utilizando o Firebase Authentication.
 <br>
