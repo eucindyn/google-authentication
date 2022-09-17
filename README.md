@@ -1,5 +1,3 @@
-
-
 # google-authentication
 
 <div align="center">
