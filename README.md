@@ -3,7 +3,7 @@
 # google-authentication
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/92797194/190874415-67104b17-d137-489f-b18b-e76adc6ff8a5.png" width="800px"/>
+<img src="https://user-images.githubusercontent.com/92797194/190874804-d94b3923-a8ce-4f94-b4e0-88389b61e58b.png" width="800px"/>
 </div>
 <br>
 <br>
